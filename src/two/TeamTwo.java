@@ -13,5 +13,14 @@ public class TeamTwo {
 		System.out.println("More conflicts");
 		
 		String teamTwo = "TrapTeam";
+		
+		System.out.println(teamTwo);
+		
+		// Im not able to see this
+		
+		int a = 10;
+		int b = 20;
+		
+		System.out.println(a+b);
 	}
 }
