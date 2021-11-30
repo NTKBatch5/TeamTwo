@@ -10,5 +10,6 @@ public class TeamTwo {
 		System.out.println("*********************");
 		System.out.println("Ooops... trap");
 		System.out.println("No traps");
+		System.out.println("More conflicts");
 	}
 }
