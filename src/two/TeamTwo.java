@@ -23,6 +23,7 @@ public class TeamTwo {
 		int b = 20;
 		
 		System.out.println(a+b);
+		System.out.println("Conflict");
 		
 		int e = 11;
 		int c = 22;
@@ -33,6 +34,10 @@ public class TeamTwo {
 		System.out.println("Get new conflict");
 		
 		//Hola, checking if its working
+
 		System.out.println("conflict");
+
+		// i belive it is working now
+
 	}
 }
