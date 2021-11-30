@@ -13,5 +13,7 @@ public class TeamTwo {
 		System.out.println("More conflicts");
 		
 		String teamTwo = "TrapTeam";
+		
+		System.out.println(teamTwo);
 	}
 }
