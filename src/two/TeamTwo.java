@@ -7,4 +7,9 @@ public class TeamTwo {
 		
 		System.out.println("Let's make some conflicts...");
 	}
+	public static void Tesla(String name) {
+		System.out.println("Tesla");
+		
+		System.out.println("Trying to create conflict");
+	}
 }
