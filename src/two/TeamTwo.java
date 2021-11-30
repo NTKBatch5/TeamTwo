@@ -8,5 +8,6 @@ public class TeamTwo {
 		System.out.println("Let's make some conflicts...");
 		
 		System.out.println("*********************");
+		System.out.println("Ooops... trap");
 	}
 }
