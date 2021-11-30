@@ -30,5 +30,7 @@ public class TeamTwo {
 	
 	public TeamTwo() {
 		System.out.println("Get new conflict");
+		
+		//Hola, checking if its working
 	}
 }
