@@ -26,7 +26,8 @@ public class TeamTwo {
 		System.out.println("Conflict");
 		
 		int e = 11;
-		int c = 22;
+		// doubled
+		int c = 44;
 		// Hello
 	}
 	
