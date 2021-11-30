@@ -27,4 +27,8 @@ public class TeamTwo {
 		int c = 22;
 		// Hello
 	}
+	
+	public TeamTwo() {
+		System.out.println("Get new conflict");
+	}
 }
