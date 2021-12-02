@@ -41,9 +41,7 @@ public class TeamTwo {
 		// i belive it is working now
 		
 		System.out.println("first change and merge");
-		System.out.println(" Making change on t
-		
-he development stage");
+		System.out.println(" Making change on the development stage");
 
 	}
 }
