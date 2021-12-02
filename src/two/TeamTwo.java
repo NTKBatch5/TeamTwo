@@ -3,6 +3,9 @@ package two;
 public class TeamTwo {
 
 	public static void main(String[] args) {
+		
+		getInfo("Ali");
+		
 		System.out.println("Team Two Initial code...");
 		
 		System.out.println("Let's make some conflicts...");
@@ -43,5 +46,8 @@ public class TeamTwo {
 		System.out.println("first change and merge");
 		System.out.println("Merge to Master Branch");
 
+	}
+	public static void getInfo(String name) {
+		System.out.println(name);
 	}
 }
