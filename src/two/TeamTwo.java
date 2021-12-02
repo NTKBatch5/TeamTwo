@@ -39,6 +39,8 @@ public class TeamTwo {
 		System.out.println("conflict");
 
 		// i belive it is working now
+		
+		System.out.println("first change and merge");
 
 	}
 }
