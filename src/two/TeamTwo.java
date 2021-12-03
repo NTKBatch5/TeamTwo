@@ -42,6 +42,7 @@ public class TeamTwo {
 		
 		System.out.println("first change and merge");
 		System.out.println(" Making change on the development stage");
+		System.out.println(" Making change on the development stage");
 
 	}
 }
