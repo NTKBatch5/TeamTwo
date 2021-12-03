@@ -3,6 +3,12 @@ package two;
 public class TeamTwo {
 
 	public static void main(String[] args) {
+		
+		getInfo("Atiq");
+		getInfo("Ali");
+		getInfo("Misha");
+		getInfo("Jamie");
+		
 		System.out.println("Team Two Initial code...");
 		
 		System.out.println("Let's make some conflicts...");
@@ -41,8 +47,12 @@ public class TeamTwo {
 		// i belive it is working now
 		
 		System.out.println("first change and merge");
-		System.out.println(" Making change on the development stage");
-		System.out.println(" Making change on the development stage");
 
+		System.out.println("Merge to Master Branch");
+
+	}
+	
+	public static void getInfo(String name) {
+		System.out.println(name);
 	}
 }
